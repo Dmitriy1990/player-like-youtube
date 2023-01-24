@@ -1,0 +1,19 @@
+.video-container{
+    max-width: 800px;
+    margin: 100px auto;
+}
+
+.controls{
+    display: flex;
+    align-items: center;
+}
+
+.button svg{
+    width: 24px;
+    height: 24px;
+}
+
+.volume{
+    display: flex;
+    align-items: center;
+}
